@@ -1,0 +1,19 @@
+h1 {
+FONT-FAMILY:‘GIBSON’, SANS-SERIF;
+  FONT-SIZE: 15PX;
+      text-align : center;
+    }
+
+body {
+  BACKGROUND-COLOR:#D1D1D1;
+  FONT-FAMILY:‘GIBSON’, SANS-SERIF;
+    FONT-SIZE: 11PX;
+        text-align : center;
+            COLOR:#006F94;
+}
+
+paragraph {
+  FONT-FAMILY:‘GIBSON’, SANS-SERIF;
+    FONT-SIZE: 13PX;
+    text-align : center;
+}

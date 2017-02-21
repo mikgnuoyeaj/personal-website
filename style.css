@@ -1,0 +1,36 @@
+body {
+BACKGROUND-COLOR:#FFD1F9;
+FONT-FAMILY:‘GIBSON’, SANS-SERIF;
+  FONT-SIZE: 11PX;
+    COLOR:#006F94;
+ background-image: url("https://s-media-cache-ak0.pinimg.com/236x/b7/d3/79/b7d3798be9dbb9a470195b9dc0317c87.jpg");
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+   background-position: right;
+   background-size: 87%;
+}
+
+h1{
+  FONT-FAMILY:'palatino', SANS-SERIF;
+    FONT-SIZE: 30PX;
+      COLOR:#D59BE8;
+}
+
+h2 {
+FONT-FAMILY:‘GIBSON’, SANS-SERIF;
+  FONT-SIZE: 11PX;
+}
+
+h3 {
+  FONT-FAMILY:‘GIBSON’, SANS-SERIF;
+    FONT-SIZE: 16PX;
+    text-align : center;
+}
+
+h4 {
+FONT-FAMILY:‘GIBSON’, SANS-SERIF;
+  FONT-SIZE: 11PX;
+    text-align : center;
+}
+
+rectangle

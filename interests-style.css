@@ -1,0 +1,23 @@
+body {
+BACKGROUND-COLOR:#C6E9F5;
+FONT-FAMILY:‘GIBSON’, SANS-SERIF;
+  FONT-SIZE: 11PX;
+    COLOR:#006F94;
+      text-align : center;
+    }
+
+h1 {
+  BACKGROUND-COLOR:#C6E9F5;
+  FONT-FAMILY:‘GIBSON’, SANS-SERIF;
+    FONT-SIZE: 15PX;
+      COLOR:#006F94;
+        text-align : center;
+}
+
+paragraph {
+  BACKGROUND-COLOR:#C6E9F5;
+  FONT-FAMILY:‘GIBSON’, SANS-SERIF;
+    FONT-SIZE: 12PX;
+      COLOR:#006F94;
+        text-align : center;
+}
